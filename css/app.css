@@ -1,0 +1,32 @@
+.header {
+	text-align: center; 
+}
+
+
+#map {
+    height: 1000px;
+    width: 1000px;
+}
+
+.search_bar {
+	width: 50% !important;
+	margin: 0 auto !important;
+}
+
+.semantic-input{
+	width: 50% !important;
+	margin: 0 auto !important;	
+}
+
+.pictures {
+	width: 150px;
+	height: 100px;
+}
+
+/*.places_saved {
+	height: 15px;
+	
+}*/
+/*.item {
+	height: 150px;
+}*/
